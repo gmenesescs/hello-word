@@ -1,56 +1,54 @@
-<h2 data-importer="text" align="center">Bem vindo ao mundo de GMenesescs</h2>
-
-###
-
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img data-importer="image" align="right" height="150" src="https://i0.wp.com/imagens.net.br/wp-content/uploads/2024/07/explore-os-melhores-gifs-de-computador-para-programadores-e-amantes-de-tecnologia-0.gif?resize=600%2C512&ssl=1"  />
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
-
-<div data-importer="socials" align="left">
-</div>
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i0.wp.com/imagens.net.br/wp-content/uploads/2024/07/envie-amor-em-movimento-gifs-especiais-para-namorada-5.gif?resize=500%2C500&ssl=1"  />
+  <img data-importer="image" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdkMzY2eDZvZnJkaWlxOXZ1c2Zxb21vZXdweWFhNGRwZGM1YnQ1byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.webp"  />
 </div>
 
 ###
 
+<div data-importer="socials" align="center">
+</div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+</div>
+
+###
+
+<h1 data-importer="text" align="center">A little world of code and curiosity💻</h1>
+
+###
+
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+
+###
+
+<p data-importer="text" align="left">Me chamo Gabriel Meneses Sou estudante de Análise e Desenvolvimento de Sistemas e estou dando meus primeiros passos na área de tecnologia.<br><br>Atualmente, estudo Python e Java e uso este espaço para organizar meus códigos, praticar o que aprendo e desenvolver projetos.<br><br>Também tenho interesse em desenvolvimento de software e cibersegurança, áreas que quero explorar melhor ao longo da minha formação.<br><br>Por aqui, você vai encontrar um pouco do que estou estudando, criando e descobrindo nesse processo.</p>
+
+###
+
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+
+###
+
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
